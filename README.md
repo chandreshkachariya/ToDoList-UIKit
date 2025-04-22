@@ -3,8 +3,6 @@ Develop a functional iOS app that allows you to manage a to-do list, with the ab
 
 # ToDo List App - iOS
 
-![App Screenshot](screenshots/main-screen.png) <!-- Add your screenshot path -->
-
 A simple yet powerful task management application built with Swift and UIKit, designed to help users organize their daily tasks efficiently.
 
 ## Features
@@ -27,7 +25,7 @@ A simple yet powerful task management application built with Swift and UIKit, de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-ios.git
+   git clone https://github.com/chandreshkachariya/ToDoList-UIKit.git
 
 2. Open the project in Xcode:
 	
@@ -40,3 +38,11 @@ A simple yet powerful task management application built with Swift and UIKit, de
 4. Choose a simulator or connect a device
 
 5. Build and run (⌘R)
+
+**Screenshot**
+![ToDoList1](https://github.com/user-attachments/assets/6eb2ff06-b9a9-4890-a12e-c360ec4a061d)
+![ToDoList2](https://github.com/user-attachments/assets/152e0358-3932-4b0a-9daf-c39aeb91b3d5)
+![ToDoList3](https://github.com/user-attachments/assets/a2c76a45-2c2f-426e-85fd-dd101f25defb)
+![ToDoList4](https://github.com/user-attachments/assets/5c07b13a-2f34-42f2-ae41-4a79deee816c)
+![ToDoList5](https://github.com/user-attachments/assets/9712fcc2-f3ca-4c8f-b303-d1dc364d20bb)
+![ToDoList6](https://github.com/user-attachments/assets/d122ea25-bca5-4b39-978f-1eea7e280945)
